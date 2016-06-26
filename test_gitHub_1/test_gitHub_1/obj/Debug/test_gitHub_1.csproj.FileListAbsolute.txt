@@ -1,0 +1,6 @@
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\bin\Debug\test_gitHub_1.exe.config
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\bin\Debug\test_gitHub_1.exe
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\bin\Debug\test_gitHub_1.pdb
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\obj\Debug\test_gitHub_1.csprojResolveAssemblyReference.cache
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\obj\Debug\test_gitHub_1.exe
+C:\Users\might\OneDrive\Program Languages\C#\PrimerGitHub\test_gitHub_1\test_gitHub_1\obj\Debug\test_gitHub_1.pdb
