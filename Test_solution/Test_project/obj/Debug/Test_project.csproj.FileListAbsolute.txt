@@ -1,0 +1,8 @@
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\bin\Debug\Test_project.exe.config
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\bin\Debug\Test_project.exe
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\bin\Debug\Test_project.pdb
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\obj\Debug\Test_project.csprojResolveAssemblyReference.cache
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\obj\Debug\Test_project.Properties.Resources.resources
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\obj\Debug\Test_project.csproj.GenerateResource.Cache
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\obj\Debug\Test_project.exe
+C:\Hagen\Clases\PrimerGitHub\Test_solution\Test_project\obj\Debug\Test_project.pdb
